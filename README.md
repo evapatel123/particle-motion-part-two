@@ -10,12 +10,6 @@ An interactive particle motion simulation built with **HTML, CSS, and JavaScript
 
 ---
 
-## Demo
-
-![Particle Motion Demo](demo.gif)
-
----
-
 ## Features
 
 - Smooth particle animations
