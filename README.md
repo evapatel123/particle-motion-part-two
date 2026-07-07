@@ -1,4 +1,4 @@
-# 🌌 Particle Motion Part Two
+# Particle Motion Part Two
 
 An interactive particle motion simulation built with **HTML, CSS, and JavaScript**. This project demonstrates smooth animations, particle movement, and browser-based graphics using the HTML5 Canvas API.
 
